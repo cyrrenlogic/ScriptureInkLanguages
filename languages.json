@@ -1,0 +1,38 @@
+{
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng",
+      "bookOfMormon": "https://assets.churchofjesuschrist.org/2d5e0fa7545611ec81e4eeeeac1e6f4d7d08ab17.pdf",
+      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-eng.pdf",
+      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/the-pearl-of-great-price-eng.pdf",
+      "oldTestament": "https://media.ldscdn.org/pdf/lds-scriptures/old-testament/old-testament-83290-eng.pdf",
+      "newTestament": "https://media.ldscdn.org/pdf/lds-scriptures/new-testament/new-testament-83291-eng.pdf"
+    },
+    {
+      "name": "Español",
+      "code": "spa",
+      "bookOfMormon": "https://media.ldscdn.org/pdf/lds-scriptures/book-of-mormon/book-of-mormon-59012-spa.pdf",
+      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-33569-spa.pdf",
+      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/pearl-of-great-price-30952-spa.pdf",
+      "oldTestament": "https://media.ldscdn.org/pdf/lds-scriptures/old-testament/old-testament-83800-spa.pdf",
+      "newTestament": "https://media.ldscdn.org/pdf/lds-scriptures/new-testament/new-testament-83291-spa.pdf"
+    },
+    {
+      "name": "Português",
+      "code": "por",
+      "bookOfMormon": "https://media.ldscdn.org/pdf/lds-scriptures/book-of-mormon/book-of-mormon-59012-por.pdf",
+      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-33569-por.pdf",
+      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/the-pearl-of-great-price-30952-por.pdf",
+      "oldTestament": "https://media.ldscdn.org/pdf/lds-scriptures/old-testament/old-testament-83290-por.pdf",
+      "newTestament": "https://media.ldscdn.org/pdf/lds-scriptures/new-testament/new-testament-83291-por.pdf"
+    },
+    {
+      "name": "Français",
+      "code": "fra",
+      "bookOfMormon": "https://media.ldscdn.org/pdf/lds-scriptures/book-of-mormon/book-of-mormon-59012-fra.pdf",
+      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-33569-fra.pdf",
+      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/pearl-of-great-price-30952-fra.pdf"
+    }
+  ]
+}
