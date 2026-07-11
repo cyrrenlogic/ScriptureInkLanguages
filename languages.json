@@ -1,76 +1,78 @@
 {
-  "languages": [
+  "languages" : [
     {
-      "name": "English",
-      "code": "eng",
-      "bookOfMormon": "https://assets.churchofjesuschrist.org/2d5e0fa7545611ec81e4eeeeac1e6f4d7d08ab17.pdf",
-      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-eng.pdf",
-      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/the-pearl-of-great-price-eng.pdf",
-      "oldTestament": "https://media.ldscdn.org/pdf/lds-scriptures/old-testament/old-testament-83290-eng.pdf",
-      "newTestament": "https://media.ldscdn.org/pdf/lds-scriptures/new-testament/new-testament-83291-eng.pdf",
-      "additionalBooks": [
+      "additionalBooks" : [
         {
-          "name": "Come Follow Me 2026",
-          "pdfPrefix": "cfm-2026",
-          "dataStorePrefix": "cf26",
-          "url": "https://assets.churchofjesuschrist.org/wd/xb/wdxbkqgag1jqmky1tsf3ptcjcgdil2x1hx906m21/2026_come_follow_me_for_home_and_church_old_testament.pdf"
+          "dataStorePrefix" : "cf26",
+          "name" : "Come Follow Me 2026",
+          "pdfPrefix" : "cfm-2026",
+          "url" : "https:\/\/assets.churchofjesuschrist.org\/wd\/xb\/wdxbkqgag1jqmky1tsf3ptcjcgdil2x1hx906m21\/2026_come_follow_me_for_home_and_church_old_testament.pdf"
         },
         {
-          "name": "Come Follow Me 2027",
-          "pdfPrefix": "cfm-2027",
-          "dataStorePrefix": "cf27",
-          "url": "https://assets.churchofjesuschrist.org/wd/xb/wdxbkqgag1jqmky1tsf3ptcjcgdil2x1hx906m21/2026_come_follow_me_for_home_and_church_old_testament.pdf"
+          "dataStorePrefix" : "cf28",
+          "name" : "Come Follow Me 2028",
+          "pdfPrefix" : "cfm-2028",
+          "url" : "https:\/\/assets.churchofjesuschrist.org\/wd\/xb\/wdxbkqgag1jqmky1tsf3ptcjcgdil2x1hx906m21\/2026_come_follow_me_for_home_and_church_old_testament.pdf"
         }
-      ]
+      ],
+      "bookOfMormon" : "https:\/\/assets.churchofjesuschrist.org\/2d5e0fa7545611ec81e4eeeeac1e6f4d7d08ab17.pdf",
+      "code" : "eng",
+      "doctrineAndCovenants" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/doctrine-and-covenants\/doctrine-and-covenants-eng.pdf",
+      "name" : "English",
+      "newTestament" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/new-testament\/new-testament-83291-eng.pdf",
+      "oldTestament" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/old-testament\/old-testament-83290-eng.pdf",
+      "pearlOfGreatPrice" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/the-pearl-of-great-price\/the-pearl-of-great-price-eng.pdf"
     },
     {
-      "name": "Español",
-      "code": "spa",
-      "bookOfMormon": "https://media.ldscdn.org/pdf/lds-scriptures/book-of-mormon/book-of-mormon-59012-spa.pdf",
-      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-33569-spa.pdf",
-      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/pearl-of-great-price-30952-spa.pdf",
-      "oldTestament": "https://media.ldscdn.org/pdf/lds-scriptures/old-testament/old-testament-83800-spa.pdf",
-      "newTestament": "https://media.ldscdn.org/pdf/lds-scriptures/new-testament/new-testament-83291-spa.pdf",
-      "additionalBooks": [
+      "additionalBooks" : [
         {
-          "name": "Come Follow Me 2026",
-          "pdfPrefix": "cfm-2026",
-          "dataStorePrefix": "cf26",
-          "url": "https://assets.churchofjesuschrist.org/c2/cn/c2cna4x9rn923xgbr3kuav5qp5ja95outd28efww/2026_come_follow_me_for_home_and_church_old_testament.pdf"
+          "dataStorePrefix" : "cf26",
+          "name" : "Come Follow Me 2026",
+          "pdfPrefix" : "cfm-2026",
+          "url" : "https:\/\/assets.churchofjesuschrist.org\/c2\/cn\/c2cna4x9rn923xgbr3kuav5qp5ja95outd28efww\/2026_come_follow_me_for_home_and_church_old_testament.pdf"
         }
-      ]
+      ],
+      "bookOfMormon" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/book-of-mormon\/book-of-mormon-59012-spa.pdf",
+      "code" : "spa",
+      "doctrineAndCovenants" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/doctrine-and-covenants\/doctrine-and-covenants-33569-spa.pdf",
+      "name" : "Español",
+      "newTestament" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/new-testament\/new-testament-83291-spa.pdf",
+      "oldTestament" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/old-testament\/old-testament-83800-spa.pdf",
+      "pearlOfGreatPrice" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/the-pearl-of-great-price\/pearl-of-great-price-30952-spa.pdf"
     },
     {
-      "name": "Português",
-      "code": "por",
-      "bookOfMormon": "https://media.ldscdn.org/pdf/lds-scriptures/book-of-mormon/book-of-mormon-59012-por.pdf",
-      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-33569-por.pdf",
-      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/the-pearl-of-great-price-30952-por.pdf",
-      "oldTestament": "https://media.ldscdn.org/pdf/lds-scriptures/old-testament/old-testament-83290-por.pdf",
-      "newTestament": "https://media.ldscdn.org/pdf/lds-scriptures/new-testament/new-testament-83291-por.pdf",
-      "additionalBooks": [
+      "additionalBooks" : [
         {
-          "name": "Come Follow Me 2026",
-          "pdfPrefix": "cfm-2026",
-          "dataStorePrefix": "cf26",
-          "url": "https://assets.churchofjesuschrist.org/oy/si/oysic6nnqv4bsy8m7rw5f5a4edxk3yfv5qcpao9a/2026_come_follow_me_for_home_and_church_old_testament.pdf"
+          "dataStorePrefix" : "cf26",
+          "name" : "Come Follow Me 2026",
+          "pdfPrefix" : "cfm-2026",
+          "url" : "https:\/\/assets.churchofjesuschrist.org\/oy\/si\/oysic6nnqv4bsy8m7rw5f5a4edxk3yfv5qcpao9a\/2026_come_follow_me_for_home_and_church_old_testament.pdf"
         }
-      ]
+      ],
+      "bookOfMormon" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/book-of-mormon\/book-of-mormon-59012-por.pdf",
+      "code" : "por",
+      "doctrineAndCovenants" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/doctrine-and-covenants\/doctrine-and-covenants-33569-por.pdf",
+      "name" : "Português",
+      "newTestament" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/new-testament\/new-testament-83291-por.pdf",
+      "oldTestament" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/old-testament\/old-testament-83290-por.pdf",
+      "pearlOfGreatPrice" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/the-pearl-of-great-price\/the-pearl-of-great-price-30952-por.pdf"
     },
     {
-      "name": "Français",
-      "code": "fra",
-      "bookOfMormon": "https://media.ldscdn.org/pdf/lds-scriptures/book-of-mormon/book-of-mormon-59012-fra.pdf",
-      "doctrineAndCovenants": "https://media.ldscdn.org/pdf/lds-scriptures/doctrine-and-covenants/doctrine-and-covenants-33569-fra.pdf",
-      "pearlOfGreatPrice": "https://media.ldscdn.org/pdf/lds-scriptures/the-pearl-of-great-price/pearl-of-great-price-30952-fra.pdf",
-      "additionalBooks": [
+      "additionalBooks" : [
         {
-          "name": "Come Follow Me 2026",
-          "pdfPrefix": "cfm-2026",
-          "dataStorePrefix": "cf26",
-          "url": "https://assets.churchofjesuschrist.org/8l/kq/8lkqxpzu7mazxgkk15eb9kqap0bx8ikgyykildwt/2026_come_follow_me_for_home_and_church_old_testament.pdf"
+          "dataStorePrefix" : "cf26",
+          "name" : "Come Follow Me 2026",
+          "pdfPrefix" : "cfm-2026",
+          "url" : "https:\/\/assets.churchofjesuschrist.org\/8l\/kq\/8lkqxpzu7mazxgkk15eb9kqap0bx8ikgyykildwt\/2026_come_follow_me_for_home_and_church_old_testament.pdf"
         }
-      ]
+      ],
+      "bookOfMormon" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/book-of-mormon\/book-of-mormon-59012-fra.pdf",
+      "code" : "fra",
+      "doctrineAndCovenants" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/doctrine-and-covenants\/doctrine-and-covenants-33569-fra.pdf",
+      "name" : "Français",
+      "newTestament" : null,
+      "oldTestament" : null,
+      "pearlOfGreatPrice" : "https:\/\/media.ldscdn.org\/pdf\/lds-scriptures\/the-pearl-of-great-price\/pearl-of-great-price-30952-fra.pdf"
     }
   ]
 }
